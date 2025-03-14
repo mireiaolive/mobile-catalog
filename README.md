@@ -4,8 +4,6 @@ Mobile Catalog Frontend es una aplicación web desarrollada con React que permit
 
 ## Características
 
-In the project directory, you can run:
-
 - Listado de dispositivos móviles.
 
 - Búsqueda y filtrado de productos.
@@ -54,5 +52,5 @@ serve -s build
 
 ##  Autor
 
-Mireia Olivé Fructuoso
-Contacto: mirisfu@gmail.com
+- Mireia Olivé Fructuoso
+- Contacto: mirisfu@gmail.com
